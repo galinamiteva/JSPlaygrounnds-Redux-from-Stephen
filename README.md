@@ -5,6 +5,7 @@
 ### Running Locally
 
 ```
+  Redux exempel from Stephen Grider
   npm install
   npm start // visit localhost:8080
 ```
